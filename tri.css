@@ -1,0 +1,63 @@
+#main{
+    background-color:#eee;
+    margin: 20px 2px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+h1{
+    margin: 20px 20px;
+    font-size: xx-large;
+}
+#figure{
+    background: white;
+    padding: 10px;
+    margin: 20px auto;
+}
+img{
+    max-width: 100%;
+  /* display: block; */
+  height: auto;
+  margin: auto;
+}
+#img-caption{
+    margin: 20px auto;
+}
+ul{
+   
+    margin: 0 auto;
+    text-align: left;
+    max-width: 500px;
+    line-height: 1.5;
+}
+blockquote{
+    margin:0 auto 50px auto;
+    text-align: left;
+    max-width: 500px;
+    line-height: 1.5;
+}
+cite{
+    margin: 0 auto;
+    text-align: right;
+}
+li{
+    margin: 15px auto;
+}
+a:link {
+    color: green;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: yellow;
+  } 
